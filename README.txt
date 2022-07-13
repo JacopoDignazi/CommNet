@@ -1,4 +1,4 @@
-Notebook might be too big to render by default, make sure to ask git to render it nonetheless. 
+Notebook might be too big to render by default: refresh the page until it does or download the notebook. 
 Environment is default one from Kaggle; only non trivial library used is networkx 
 
 This project simulates formation of communities in a small social network by different parametrization; parameters include:
